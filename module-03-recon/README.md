@@ -24,6 +24,12 @@ Reconnaissance and vulnerability scanning form the intelligence backbone of any 
 - [Practice Labs](#practice-labs)
 - [References](#references)
 
+## Supplementary Files
+
+| File | Description |
+|------|-------------|
+| [google-dorking.md](./google-dorking.md) | Full Google Dorking reference — 4,448 dork queries organised by category (directory listings, credentials, CMS, network devices, log files, private keys, and more) |
+
 ---
 
 ## Key Concepts
@@ -56,6 +62,8 @@ Reconnaissance and vulnerability scanning form the intelligence backbone of any 
 | `intitle:` | `intitle:"index of"` | Search page titles |
 | `inurl:` | `inurl:admin` | Search URLs |
 | `cache:` | `cache:example.com` | View Google's cached copy |
+
+> **Full dork list:** See [google-dorking.md](./google-dorking.md) for a comprehensive reference of 4,448+ dork queries organised by category — credentials, directory listings, CMS platforms, network devices, private keys, and more.
 
 ---
 
