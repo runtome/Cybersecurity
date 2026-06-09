@@ -29,6 +29,7 @@ Reconnaissance and vulnerability scanning form the intelligence backbone of any 
 | File | Description |
 |------|-------------|
 | [google-dorking.md](./google-dorking.md) | Full Google Dorking reference — 4,448 dork queries organised by category (directory listings, credentials, CMS, network devices, log files, private keys, and more) |
+| [kali-lab.md](./kali-lab.md) | Hands-on Kali Linux lab — SpiderFoot, recon-ng, dnsrecon, WHOIS, dig, nslookup, sslscan, exiftool, Shodan CLI, Nmap, tcpdump, Wireshark, and GVM/OpenVAS |
 
 ---
 
@@ -277,6 +278,7 @@ amass enum -active -d example.com -o amass_output.txt
 
 | Platform | Lab / Room Name | Difficulty | Link |
 |----------|----------------|------------|------|
+| **Local (Kali)** | **Kali Linux Recon Lab** | **Beginner–Intermediate** | [kali-lab.md](./kali-lab.md) |
 | TryHackMe | Passive Reconnaissance | Easy | [Link](https://tryhackme.com/room/passiverecon) |
 | TryHackMe | Active Reconnaissance | Easy | [Link](https://tryhackme.com/room/activerecon) |
 | TryHackMe | Nmap | Easy | [Link](https://tryhackme.com/room/furthernmap) |
