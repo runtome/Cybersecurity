@@ -31,10 +31,11 @@ export default defineConfig({
     '.vitepress/**',
   ],
   cleanUrls: true,
-  ignoreDeadLinks: true,
+
   rewrites: {
     'README.md': 'index.md',
     ':dir/README.md': ':dir/index.md',
+    ':dir1/:dir2/README.md': ':dir1/:dir2/index.md',
   },
   vite: { plugins: [ignoreMissingImages] },
   themeConfig: {
@@ -136,6 +137,10 @@ export default defineConfig({
         items: [
           { text: 'Index',             link: '/ctf-writeups/' },
           { text: 'Write-Up Template', link: '/ctf-writeups/template-writeup' },
+          { text: 'HackTheBox',        link: '/ctf-writeups/htb/' },
+          { text: 'TryHackMe',         link: '/ctf-writeups/thm/' },
+          { text: 'picoCTF',           link: '/ctf-writeups/picoctf/' },
+          { text: 'Other Platforms',   link: '/ctf-writeups/other/' },
         ],
       },
       {
@@ -151,7 +156,7 @@ export default defineConfig({
       },
     ],
 
-  search: { provider: 'local' },
+    search: { provider: 'local' },
 
     footer: {
       message: 'CEH v13 / CompTIA PenTest+ PT0-003 reference notes.',

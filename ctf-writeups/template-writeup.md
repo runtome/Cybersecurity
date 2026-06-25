@@ -131,8 +131,8 @@ find / -perm -4000 2>/dev/null
 
 ## References
 
-- [Link to CVE or technique](URL) — description
-- [Tool documentation](URL) — description
+- [Replace with CVE or technique name](https://example.com) — description
+- [Replace with tool documentation](https://example.com) — description
 
 ---
 

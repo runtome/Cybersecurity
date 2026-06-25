@@ -61,8 +61,7 @@ Quick-reference sheets for use during CTFs and assessments.
 | [Windows Commands](./cheatsheets/windows-commands.md) | CMD and PowerShell for post-exploitation |
 | [Networking Basics](./cheatsheets/networking-basics.md) | OSI model, TCP/IP, subnetting, ports |
 | [Common Ports & Services](./cheatsheets/common-ports-services.md) | Top ports with service names and attack notes |
-| [Web Vulnerabilities](./cheatsheets/web-vulnerabilities.md) | OWASP Top 10 payloads and bypass techniques |
-| [Reverse Shells](./cheatsheets/reverse-shells.md) | One-liners for Bash, Python, PHP, Netcat, PowerShell |
+
 | [Privilege Escalation](./cheatsheets/privilege-escalation.md) | Linux and Windows privesc vectors and commands |
 | [Cryptography Basics](./cheatsheets/cryptography-basics.md) | Encoding, hashing, cipher identification |
 
