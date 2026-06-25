@@ -1,4 +1,4 @@
-# Module 09: Reporting and Communication
+﻿# Module 09: Reporting and Communication
 
 > **Curriculum alignment:** CEH v13 Domain 18 / CompTIA PenTest+ PT0-003 — Domain 5.0 Reporting and Communication
 > **Difficulty:** Beginner–Intermediate
@@ -199,4 +199,4 @@ Remediation: Rotate all credentials, patch SMB, implement secret scanning in CI/
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

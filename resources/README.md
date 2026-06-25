@@ -1,4 +1,4 @@
-# Resources
+﻿# Resources
 
 Supporting reference material for the repository.
 
@@ -11,4 +11,4 @@ Supporting reference material for the repository.
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

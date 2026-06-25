@@ -1,4 +1,4 @@
-# Module 03: Information Gathering and Vulnerability Scanning
+﻿# Module 03: Information Gathering and Vulnerability Scanning
 
 > **Curriculum alignment:** CEH v13 Domain 3 / CompTIA PenTest+ PT0-003 — Domain 2.0 Information Gathering
 > **Difficulty:** Beginner–Intermediate
@@ -297,4 +297,4 @@ amass enum -active -d example.com -o amass_output.txt
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

@@ -1,6 +1,6 @@
-# Google Dorking — Advanced Search Techniques
+﻿# Google Dorking — Advanced Search Techniques
 
-> **Module:** [03 — Information Gathering and Vulnerability Scanning](./README.md)
+> **Module:** [03 — Information Gathering and Vulnerability Scanning](./)
 > **Technique type:** Passive Reconnaissance (OSINT)
 > **Source reference:** [rbcafe.com — Great List of 4,448 Google Dorks](https://www.rbcafe.com/security/google-dorking-great-list-4448-google-dorking/)
 
@@ -539,4 +539,4 @@ location ~ /\.git {
 
 ---
 
-*Back to [Module 03 — Information Gathering](./README.md)*
+*Back to [Module 03 — Information Gathering](./)*

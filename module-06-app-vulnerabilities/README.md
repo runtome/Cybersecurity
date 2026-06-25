@@ -1,4 +1,4 @@
-# Module 06: Exploiting Application-Based Vulnerabilities
+﻿# Module 06: Exploiting Application-Based Vulnerabilities
 
 > **Curriculum alignment:** CEH v13 Domain 10 & 11 / CompTIA PenTest+ PT0-003 — Domain 3.0 Attacks & Exploits
 > **Difficulty:** Intermediate–Advanced
@@ -295,4 +295,4 @@ GET /download?file=invoice_1002.pdf  → IDOR to another user's data
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

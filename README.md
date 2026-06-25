@@ -1,4 +1,4 @@
-# Cybersecurity Notes
+﻿# Cybersecurity Notes
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Modules](https://img.shields.io/badge/modules-10-blue)
@@ -38,16 +38,16 @@ All commands are written for **Kali Linux 2024+** unless otherwise noted. Window
 
 | # | Module | Topics |
 |---|--------|--------|
-| 01 | [Introduction to Ethical Hacking and Penetration Testing](./module-01-intro/README.md) | Ethics, legal frameworks, hacker types, pentest phases, CVE/CVSS |
-| 02 | [Planning and Scoping a Penetration Testing Assessment](./module-02-planning/README.md) | Rules of engagement, scope definition, threat modelling, compliance (PCI-DSS, HIPAA) |
-| 03 | [Information Gathering and Vulnerability Scanning](./module-03-recon/README.md) | Passive/active recon, OSINT, Nmap, Nessus, Nikto, Shodan |
-| 04 | [Social Engineering Attacks](./module-04-social-engineering/README.md) | Phishing, vishing, pretexting, SET framework, defences |
-| 05 | [Exploiting Wired and Wireless Networks](./module-05-network-exploitation/README.md) | MITM, ARP spoofing, WPA2 cracking, Metasploit, pivoting |
-| 06 | [Exploiting Application-Based Vulnerabilities](./module-06-app-vulnerabilities/README.md) | OWASP Top 10, SQLi, XSS, IDOR, Burp Suite, API testing |
-| 07 | [Cloud, Mobile, and IoT Security](./module-07-cloud-mobile-iot/README.md) | AWS/Azure misconfigs, Android APK analysis, firmware analysis |
-| 08 | [Performing Post-Exploitation Techniques](./module-08-post-exploitation/README.md) | Privilege escalation, persistence, lateral movement, credential dumping |
-| 09 | [Reporting and Communication](./module-09-reporting/README.md) | Report structure, CVSS scoring, executive summaries, remediation advice |
-| 10 | [Tools and Code Analysis](./module-10-tools-code-analysis/README.md) | Reverse engineering, static/dynamic analysis, scripting (Python/Bash), custom exploits |
+| 01 | [Introduction to Ethical Hacking and Penetration Testing](./module-01-intro/) | Ethics, legal frameworks, hacker types, pentest phases, CVE/CVSS |
+| 02 | [Planning and Scoping a Penetration Testing Assessment](./module-02-planning/) | Rules of engagement, scope definition, threat modelling, compliance (PCI-DSS, HIPAA) |
+| 03 | [Information Gathering and Vulnerability Scanning](./module-03-recon/) | Passive/active recon, OSINT, Nmap, Nessus, Nikto, Shodan |
+| 04 | [Social Engineering Attacks](./module-04-social-engineering/) | Phishing, vishing, pretexting, SET framework, defences |
+| 05 | [Exploiting Wired and Wireless Networks](./module-05-network-exploitation/) | MITM, ARP spoofing, WPA2 cracking, Metasploit, pivoting |
+| 06 | [Exploiting Application-Based Vulnerabilities](./module-06-app-vulnerabilities/) | OWASP Top 10, SQLi, XSS, IDOR, Burp Suite, API testing |
+| 07 | [Cloud, Mobile, and IoT Security](./module-07-cloud-mobile-iot/) | AWS/Azure misconfigs, Android APK analysis, firmware analysis |
+| 08 | [Performing Post-Exploitation Techniques](./module-08-post-exploitation/) | Privilege escalation, persistence, lateral movement, credential dumping |
+| 09 | [Reporting and Communication](./module-09-reporting/) | Report structure, CVSS scoring, executive summaries, remediation advice |
+| 10 | [Tools and Code Analysis](./module-10-tools-code-analysis/) | Reverse engineering, static/dynamic analysis, scripting (Python/Bash), custom exploits |
 
 ---
 

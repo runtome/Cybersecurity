@@ -1,4 +1,4 @@
-# [Machine / Challenge Name]
+﻿# [Machine / Challenge Name]
 
 **Platform:** HackTheBox / TryHackMe / picoCTF / Other
 **Category:** Pwn / Web / Crypto / Forensics / Rev / Misc / Machine
@@ -136,4 +136,4 @@ find / -perm -4000 2>/dev/null
 
 ---
 
-*Back to [Write-Ups Index](../README.md)*
+*Back to [Write-Ups Index](../)*

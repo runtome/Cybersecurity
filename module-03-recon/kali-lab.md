@@ -1,4 +1,4 @@
-# Kali Linux Recon Lab
+﻿# Kali Linux Recon Lab
 
 > **Module:** 03 — Information Gathering and Vulnerability Scanning
 > **Platform:** Kali Linux
@@ -539,4 +539,4 @@ After `gvm-start`, access the web interface at `https://127.0.0.1:9392` (default
 
 ---
 
-*Back to [Module 03 README](./README.md)*
+*Back to [Module 03 README](./)*

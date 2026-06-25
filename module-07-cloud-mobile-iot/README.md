@@ -1,4 +1,4 @@
-# Module 07: Cloud, Mobile, and IoT Security
+﻿# Module 07: Cloud, Mobile, and IoT Security
 
 > **Curriculum alignment:** CEH v13 Domain 12, 13, 17 / CompTIA PenTest+ PT0-003 — Domain 3.0 Attacks & Exploits
 > **Difficulty:** Intermediate–Advanced
@@ -314,4 +314,4 @@ frida -U -f com.example.app --codeshare pcipolloni/universal-android-ssl-pinning
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

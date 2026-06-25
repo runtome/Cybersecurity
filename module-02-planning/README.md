@@ -1,4 +1,4 @@
-# Module 02: Planning and Scoping a Penetration Testing Assessment
+﻿# Module 02: Planning and Scoping a Penetration Testing Assessment
 
 > **Curriculum alignment:** CEH v13 Domain 2 / CompTIA PenTest+ PT0-003 — Domain 1.0 Planning & Scoping
 > **Difficulty:** Beginner
@@ -187,4 +187,4 @@ nltest /domain_trusts
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

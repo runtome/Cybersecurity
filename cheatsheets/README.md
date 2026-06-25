@@ -1,4 +1,4 @@
-# Cheatsheets
+﻿# Cheatsheets
 
 Quick-reference command sheets for active CTF and pentest use. No explanations — just the commands.
 
@@ -15,4 +15,4 @@ Quick-reference command sheets for active CTF and pentest use. No explanations �
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

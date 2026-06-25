@@ -1,4 +1,4 @@
-# CTF Write-Ups
+﻿# CTF Write-Ups
 
 Documented solutions to CTF challenges and platform machines. Each write-up follows the standard template — use `template-writeup.md` when starting a new write-up.
 
@@ -28,4 +28,4 @@ Documented solutions to CTF challenges and platform machines. Each write-up foll
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

@@ -1,4 +1,4 @@
-# Module 01: Introduction to Ethical Hacking and Penetration Testing
+﻿# Module 01: Introduction to Ethical Hacking and Penetration Testing
 
 > **Curriculum alignment:** CEH v13 Domain 1 / CompTIA PenTest+ PT0-003 — Domain 1.0
 > **Difficulty:** Beginner
@@ -188,4 +188,4 @@ nmap -sV -O 192.168.1.100
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*

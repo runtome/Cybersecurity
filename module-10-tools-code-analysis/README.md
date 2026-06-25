@@ -1,4 +1,4 @@
-# Module 10: Tools and Code Analysis
+﻿# Module 10: Tools and Code Analysis
 
 > **Curriculum alignment:** CEH v13 Domain 19 & 20 / CompTIA PenTest+ PT0-003 — Domain 4.0 Reporting and Communication
 > **Difficulty:** Advanced
@@ -343,4 +343,4 @@ semgrep --pattern 'db.execute($X + $Y)' --lang python .
 
 ---
 
-*Back to [Repository Root](../README.md)*
+*Back to [Repository Root](../)*
