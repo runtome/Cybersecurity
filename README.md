@@ -27,7 +27,7 @@ All notes follow the EC-Council CEH v13 / CompTIA PenTest+ PT0-003 curriculum an
 
 1. **Linear study** — work through modules 01 to 10 in order for a complete penetration testing methodology.
 2. **Topic lookup** — jump directly to any module folder or cheatsheet for a quick command reference.
-3. **CTF workflow** — start in `ctf-writeups/` for solved challenge write-ups; use `cheatsheets/reverse-shells.md` and `cheatsheets/privilege-escalation.md` during active competitions.
+3. **CTF workflow** — start in `ctf-writeups/` for solved challenge write-ups; use `cheatsheets/privilege-escalation.md` during active competitions.
 4. **Lab setup** — see `resources/lab-setup.md` to configure your Kali Linux VM, vulnerable machines (Metasploitable, DVWA, VulnHub), and networking.
 
 All commands are written for **Kali Linux 2024+** unless otherwise noted. Windows-specific commands are clearly labelled.
